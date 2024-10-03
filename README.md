@@ -1,5 +1,5 @@
 # Práctica 4
-En el archivo codigoBaseCorregido.jsx se encuentra el componente sobre el cual se hizo la refactorización, este componente login es un componente de pruebas con la conexión y funcionamiento correcto con el Servidor, a su vez parte del módulo Login de un Eccomerce en desarrollo. 
+En el archivo codigoBaseCorregido.jsx se encuentra el componente sobre el cual se hizo la refactorización, este componente login es un componente de pruebas con la conexión y funcionamiento correcto con el Servidor, a su vez parte del módulo Login de un E-commerce en desarrollo. 
 
 #Presencia de bugs, code smells y vulnerabilities dentro del código base: 
 1. Presencia de code smells:
